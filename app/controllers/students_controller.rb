@@ -1,6 +1,6 @@
 class StudentsController < ApplicationController
 
-  def index
+  def home
   end
 
 end
